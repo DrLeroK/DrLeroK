@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Latera Dereje Hirpa 👋</h1>
+<h1 align="center">Hi there! I'm Latera Dereje 👋</h1>
 
 <p align="center">
   <em>Aspiring Full-Stack Developer</em> • 5th-year Software Engineering student at Haramaya University • Based in Ethiopia 🇪🇹
