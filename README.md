@@ -30,7 +30,7 @@
 ### 📫 Let's connect
 <p align="center">
   <a href="https://www.linkedin.com/in/latera-dereje">LinkedIn</a> • 
-  <a href="mailto:lateradrj94@gmail.com">Email</a> • 
+  <a href="mailto:lateradrj94@gmail.com">Email</a>
   <!-- Add Twitter/X, personal site, etc. if you have -->
 </p>
 
