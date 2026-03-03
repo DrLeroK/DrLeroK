@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Python+%2B+JavaScript;Building+modern+web+apps;Django+%2F+FastAPI+%2F+React+%2F+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Python+%2B+JavaScript;Building+modern+web+apps; Django+%2F+FastAPI+%2F+React+%2F+
+    Next.js" alt="Typing SVG" />
 </div>
 
 <br/>
