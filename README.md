@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Latera Dereje 👋</h1>
 
 <p align="center">
-  <em>Aspiring Full-Stack Developer</em> • 5th-year Software Engineering student at Haramaya University • Based in Ethiopia 🇪🇹
+  <em>Aspiring Full-Stack Developer</em> • Software Engineer • Based in Ethiopia 🇪🇹
 </p>
 
 <div align="center">
