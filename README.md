@@ -10,9 +10,6 @@
   <a href="mailto:lateradrj94@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 <p align="center">
@@ -81,19 +78,6 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** with a stron
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrLeroK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrLeroK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrLeroK&theme=radical&hide_border=true&background=0D1117&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakNum=FFFFFF&sideNums=00E5A0&currStreakLabel=00E5A0&sideLabels=00E5A0&dates=FFFFFF"/>
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on interesting projects, contributing to open-source, or just having a tech chat!
@@ -107,9 +91,6 @@ I'm always open to collaborating on interesting projects, contributing to open-s
   </a>
   <a href="mailto:lateradrj94@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
