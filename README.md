@@ -21,8 +21,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5A0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;React+%2B+Next.js+%2B+Django+%2B+FastAPI;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5A0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;React+%2B+Next.js+%2B+Django+%2B+FastAPI;Building+the+future" alt="Typing SVG" />
 </div>
+
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00E5A0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;React+%2B+Next.js+%2B+Django+%2B+FastAPI;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+</div> -->
 
 ---
 
