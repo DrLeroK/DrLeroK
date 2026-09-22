@@ -14,7 +14,7 @@
 
 <p align="center">
   <strong>Full-Stack Developer & Software Engineer</strong><br/>
-  <em>Building scalable web applications with modern technologies</em><br/>
+  <em> Building scalable web applications with modern technologies </em> <br/>
   📍 Addis Ababa, Ethiopia 🇪🇹
 </p>
 
